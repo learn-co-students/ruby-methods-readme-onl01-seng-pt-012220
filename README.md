@@ -1,4 +1,18 @@
-# Methods in Ruby
+def phrase = "Hello World!"
+  puts "Hello World!"
+end
+
+modestbranding
+
+File: greeting.rb
+File: greeting.rb
+$ ruby greeting.rb
+
+touch greeting.rb
+File: greeting.rb
+def greeting
+  puts "Hello World"
+  end# Methods in Ruby
 
 ## Overview
 
